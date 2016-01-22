@@ -1,2 +1,2 @@
 # python-exercises
-Teaching myself some python
+Teaching myself some python.
